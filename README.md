@@ -1,1 +1,1 @@
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=jeffwilde&hide_border=false&background=212529&border=FFBEBE&stroke=FFBEBE&ring=FF8E8E&fire=FF8E8E&currStreakNum=DEFBFF&sideNums=DEFBFF&currStreakLabel=FFBEBE&sideLabels=FFBEBE&dates=FFBEBE"/></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=jeffwilde&hide_border=false&background=212529&border=FFBEBE&stroke=FFBEBE&ring=FF8E8E&fire=FF8E8E&currStreakNum=DEFBFF&sideNums=DEFBFF&currStreakLabel=FFBEBE&sideLabels=FFBEBE&dates=FFBEBE"/></p>
